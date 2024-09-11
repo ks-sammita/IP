@@ -14,6 +14,7 @@ Diet Recommendations Based on Age: Suggests age-specific diet plans for children
 Prerequisites:
 Java 8 or higher
 Java Swing (included in the JDK)
+Apache POI Library(For Working with Excel Files)
 IDE like IntelliJ IDEA, Eclipse, or any editor with Java support
 
 Technologies Used:
